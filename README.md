@@ -8,19 +8,19 @@ Syahriza Izzati (19102191)
 Sistem supermarket kami dapat digunakan sebagai pendataan produk dan transaksi jual beli di supermarket. User juga dapat melihat jumlah  produk yang masih tersedia  pada supermarket. Tujuan penggunaan aplikasi ini yaitu untuk membantu mempermudah dalam pendataan serta transaksi pada suatu supermarket, serta dapat mengetahui rekapan dan update an yang sudah diinputkan sebelumnya
 
 User Login
-![image](https://imgur.com/CwN4aIt)
+![image](https://imgur.com/CwN4aIt.png)
 
 User Register
-![image](https://imgur.com/IBoaSMl)
+![image](https://imgur.com/IBoaSMl.png)
 
 Dashboard
-![image](https://imgur.com/5SrDtgT)
+![image](https://imgur.com/5SrDtgT.png)
 
 Insert Data
-![image](https://imgur.com/7zlOaeM)
+![image](https://imgur.com/7zlOaeM.png)
 
 Transaksi Barang
-![image](https://imgur.com/6StqJj7)
+![image](https://imgur.com/6StqJj7.png)
 
 Rekap Data
-![image](https://imgur.com/BQjcK5i)
+![image](https://imgur.com/BQjcK5i.png)
